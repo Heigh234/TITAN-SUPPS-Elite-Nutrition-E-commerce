@@ -47,7 +47,7 @@ El sistema sigue un modelo de desarrollo modular:
 
 ## 📧 Contacto y Demo
 
-Este proyecto ha sido desarrollado por **Darwin Villalobos** como parte de su portafolio profesional de desarrollo web freelance.
+Este proyecto ha sido desarrollado por mi persona, **Darwin Villalobos**, como parte de mi portafolio profesional de desarrollo web freelance.
 
 * **Live Demo:** https://titansupps.infinityfree.me/
 * **Correo electrónico:** darwinvillalobos0201@gmail.com
